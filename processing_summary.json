@@ -206,5 +206,44 @@
     "required_permissions": "3 month",
     "reason_for_application": "Testing and support for Eagle Eyes project user id1： ryi2 user id2: hwang13",
     "is_china_cloud": true
+  },
+  {
+    "processed_time": "2025-09-07 19:18:34",
+    "ticket_number": "RITM1598470",
+    "short_description": "China Cloud account and permission request | undefined | Bin Ao",
+    "subject": "RITM1598470 | Approval Required / Approbation Requise",
+    "from": "lululemon ServiceNow <luluprod@service-now.com>",
+    "message_id": "<652445904.50376.1756700958730@app142035.phx201.service-now.com>",
+    "requested_by": "Bin Ao",
+    "environment": "Non - Prod",
+    "required_permissions": "login aliyun",
+    "reason_for_application": "申请登录阿里云平台，查看系统信息和日志。",
+    "is_china_cloud": true
+  },
+  {
+    "processed_time": "2025-09-07 19:19:15",
+    "ticket_number": "RITM1598471",
+    "short_description": "China Cloud account and permission request | undefined | Xing Jiang",
+    "subject": "RITM1598471 | Approval Required / Approbation Requise",
+    "from": "lululemon ServiceNow <luluprod@service-now.com>",
+    "message_id": "<2044196119.50346.1756700956271@app142035.phx201.service-now.com>",
+    "requested_by": "Xing Jiang",
+    "environment": "Non - Prod",
+    "required_permissions": "login aliyun",
+    "reason_for_application": "申请登录阿里云，查看系统的信息和日志",
+    "is_china_cloud": true
+  },
+  {
+    "processed_time": "2025-09-07 19:23:41",
+    "ticket_number": "RITM1595637",
+    "short_description": "CN-Server & DB Access Control",
+    "subject": "RITM1595637 | Approval Required / Approbation Requise",
+    "from": "lululemon ServiceNow <luluprod@service-now.com>",
+    "message_id": "<877803284.53545.1756451004538@app138054.phx201.service-now.com>",
+    "requested_by": "LEI ZHANG",
+    "environment": "",
+    "required_permissions": "",
+    "reason_for_application": "",
+    "is_china_cloud": true
   }
 ]

@@ -864,3 +864,85 @@
 2025-09-07 18:45:45,620 - INFO - ✅ 邮件已移动到Processed: RITM1602500 | Approval Required / Approbation Requise
 2025-09-07 18:45:45,620 - INFO - 📁 邮件已移动到Processed文件夹
 2025-09-07 18:45:45,620 - INFO - 本次处理了 1 封邮件
+2025-09-07 19:17:01,492 - INFO - 处理mbox文件: /Users/liqilong/Library/Thunderbird/Profiles/xoxled0d.default-release/Mail/Local Folders/Archives.sbd/ServiceNow.sbd/NeedApprove
+2025-09-07 19:17:01,492 - INFO - mbox文件中没有找到邮件
+2025-09-07 19:18:09,079 - INFO - 处理mbox文件: /Users/liqilong/Library/Thunderbird/Profiles/xoxled0d.default-release/Mail/Local Folders/Archives.sbd/ServiceNow.sbd/NeedApprove
+2025-09-07 19:18:09,100 - INFO - 正在提取China Cloud字段...
+2025-09-07 19:18:09,100 - INFO - 提取到Requested by: Bin Ao
+2025-09-07 19:18:09,100 - INFO - 提取到Environment: Non - Prod
+2025-09-07 19:18:09,101 - INFO - 提取到Required Permissions (多行策略): login aliyun
+2025-09-07 19:18:09,101 - INFO - 提取到Reason: 申请登录阿里云平台，查看系统信息和日志。
+2025-09-07 19:18:09,113 - INFO - 正在提取China Cloud字段...
+2025-09-07 19:18:09,113 - INFO - 提取到Requested by: Xing Jiang
+2025-09-07 19:18:09,113 - INFO - 提取到Environment: Non - Prod
+2025-09-07 19:18:09,113 - INFO - 提取到Required Permissions (多行策略): login aliyun
+2025-09-07 19:18:09,113 - INFO - 提取到Reason: 申请登录阿里云，查看系统的信息和日志
+2025-09-07 19:18:09,114 - INFO - 处理需要批准的邮件: RITM1598470 | Approval Required / Approbation Requise
+2025-09-07 19:18:09,114 - INFO - 发件人: lululemon ServiceNow <luluprod@service-now.com>
+2025-09-07 19:18:09,114 - INFO - Short description: China Cloud account and permission request | undefined | Bin Ao
+2025-09-07 19:18:09,114 - INFO - 生成回复主题: Re: RITM1598470 - approve
+2025-09-07 19:18:09,165 - INFO - 从原始邮件提取到Ref信息: Ref:MSG85173668
+2025-09-07 19:18:09,165 - INFO - 准备发送邮件到: "luluprod@service-now.com" <luluprod@service-now.com>
+2025-09-07 19:18:09,165 - INFO - 主题: Re: RITM1598470 - approve
+2025-09-07 19:18:09,165 - INFO - 邮件客户端: thunderbird
+2025-09-07 19:18:09,165 - INFO - 发送模式: 自动发送
+2025-09-07 19:18:34,932 - INFO - ✅ 邮件已自动发送
+2025-09-07 19:18:34,933 - INFO - 成功处理邮件 1: RITM1598470 | Approval Required / Approbation Requise
+2025-09-07 19:18:34,994 - INFO - 正在提取China Cloud字段...
+2025-09-07 19:18:34,994 - INFO - 提取到Requested by: Bin Ao
+2025-09-07 19:18:34,994 - INFO - 提取到Environment: Non - Prod
+2025-09-07 19:18:34,994 - INFO - 提取到Required Permissions (多行策略): login aliyun
+2025-09-07 19:18:34,994 - INFO - 提取到Reason: 申请登录阿里云平台，查看系统信息和日志。
+2025-09-07 19:18:35,011 - INFO - 正在提取China Cloud字段...
+2025-09-07 19:18:35,012 - INFO - 提取到Requested by: Xing Jiang
+2025-09-07 19:18:35,012 - INFO - 提取到Environment: Non - Prod
+2025-09-07 19:18:35,012 - INFO - 提取到Required Permissions (多行策略): login aliyun
+2025-09-07 19:18:35,012 - INFO - 提取到Reason: 申请登录阿里云，查看系统的信息和日志
+2025-09-07 19:18:35,014 - INFO - 从源文件删除邮件: RITM1598470 | Approval Required / Approbation Requise
+2025-09-07 19:18:35,014 - INFO - ✅ 邮件已移动到Processed: RITM1598470 | Approval Required / Approbation Requise
+2025-09-07 19:18:35,014 - INFO - 📁 邮件已移动到Processed文件夹
+2025-09-07 19:18:35,014 - INFO - 等待 15 秒，确保前一封邮件处理完成...
+2025-09-07 19:18:50,015 - INFO - 处理需要批准的邮件: RITM1598471 | Approval Required / Approbation Requise
+2025-09-07 19:18:50,017 - INFO - 发件人: lululemon ServiceNow <luluprod@service-now.com>
+2025-09-07 19:18:50,017 - INFO - Short description: China Cloud account and permission request | undefined | Xing Jiang
+2025-09-07 19:18:50,017 - INFO - 生成回复主题: Re: RITM1598471 - approve
+2025-09-07 19:18:50,064 - INFO - 从原始邮件提取到Ref信息: Ref:MSG85173610
+2025-09-07 19:18:50,064 - INFO - 准备发送邮件到: "luluprod@service-now.com" <luluprod@service-now.com>
+2025-09-07 19:18:50,064 - INFO - 主题: Re: RITM1598471 - approve
+2025-09-07 19:18:50,065 - INFO - 邮件客户端: thunderbird
+2025-09-07 19:18:50,065 - INFO - 发送模式: 自动发送
+2025-09-07 19:19:15,524 - INFO - ✅ 邮件已自动发送
+2025-09-07 19:19:15,526 - INFO - 成功处理邮件 2: RITM1598471 | Approval Required / Approbation Requise
+2025-09-07 19:19:15,578 - INFO - 正在提取China Cloud字段...
+2025-09-07 19:19:15,578 - INFO - 提取到Requested by: Xing Jiang
+2025-09-07 19:19:15,578 - INFO - 提取到Environment: Non - Prod
+2025-09-07 19:19:15,578 - INFO - 提取到Required Permissions (多行策略): login aliyun
+2025-09-07 19:19:15,578 - INFO - 提取到Reason: 申请登录阿里云，查看系统的信息和日志
+2025-09-07 19:19:15,579 - INFO - 从源文件删除邮件: RITM1598471 | Approval Required / Approbation Requise
+2025-09-07 19:19:15,579 - INFO - ✅ 邮件已移动到Processed: RITM1598471 | Approval Required / Approbation Requise
+2025-09-07 19:19:15,579 - INFO - 📁 邮件已移动到Processed文件夹
+2025-09-07 19:19:15,580 - INFO - 本次处理了 2 封邮件
+2025-09-07 19:23:15,898 - INFO - 处理mbox文件: /Users/liqilong/Library/Thunderbird/Profiles/xoxled0d.default-release/Mail/Local Folders/Archives.sbd/ServiceNow.sbd/NeedApprove
+2025-09-07 19:23:15,914 - INFO - 正在提取CN-Server & DB Access Control字段...
+2025-09-07 19:23:15,915 - INFO - 提取到Requested by: LEI ZHANG
+2025-09-07 19:23:15,915 - INFO - 找到System access值: DMS
+2025-09-07 19:23:15,915 - INFO - System access不是Bastion，跳过CN-Server & DB Access Control字段提取
+2025-09-07 19:23:15,915 - INFO - 处理需要批准的邮件: RITM1595637 | Approval Required / Approbation Requise
+2025-09-07 19:23:15,915 - INFO - 发件人: lululemon ServiceNow <luluprod@service-now.com>
+2025-09-07 19:23:15,915 - INFO - Short description: CN-Server & DB Access Control
+2025-09-07 19:23:15,915 - INFO - 生成回复主题: Re: RITM1595637 - approve
+2025-09-07 19:23:15,966 - INFO - 从原始邮件提取到Ref信息: Ref:MSG85096713
+2025-09-07 19:23:15,966 - INFO - 准备发送邮件到: "luluprod@service-now.com" <luluprod@service-now.com>
+2025-09-07 19:23:15,966 - INFO - 主题: Re: RITM1595637 - approve
+2025-09-07 19:23:15,966 - INFO - 邮件客户端: thunderbird
+2025-09-07 19:23:15,966 - INFO - 发送模式: 自动发送
+2025-09-07 19:23:41,390 - INFO - ✅ 邮件已自动发送
+2025-09-07 19:23:41,392 - INFO - 成功处理邮件 1: RITM1595637 | Approval Required / Approbation Requise
+2025-09-07 19:23:41,429 - INFO - 正在提取CN-Server & DB Access Control字段...
+2025-09-07 19:23:41,429 - INFO - 提取到Requested by: LEI ZHANG
+2025-09-07 19:23:41,429 - INFO - 找到System access值: DMS
+2025-09-07 19:23:41,429 - INFO - System access不是Bastion，跳过CN-Server & DB Access Control字段提取
+2025-09-07 19:23:41,430 - INFO - 从源文件删除邮件: RITM1595637 | Approval Required / Approbation Requise
+2025-09-07 19:23:41,430 - INFO - ✅ 邮件已移动到Processed: RITM1595637 | Approval Required / Approbation Requise
+2025-09-07 19:23:41,430 - INFO - 📁 邮件已移动到Processed文件夹
+2025-09-07 19:23:41,430 - INFO - 本次处理了 1 封邮件
