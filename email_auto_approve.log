@@ -459,3 +459,408 @@
 2025-09-07 07:08:18,433 - INFO - ✅ 邮件已移动到Processed: RITM1602281 | Approval Required / Approbation Requise
 2025-09-07 07:08:18,433 - INFO - 📁 邮件已移动到Processed文件夹
 2025-09-07 07:08:18,433 - INFO - 本次处理了 3 封邮件
+2025-09-07 14:17:48,329 - INFO - 开始监控邮件目录: /Users/liqilong/Library/Thunderbird/Profiles/xoxled0d.default-release/webaccountMail/outlook.office365.com/ServiceNow.sbd
+2025-09-07 14:17:48,329 - INFO - 处理mbox文件: /Users/liqilong/Library/Thunderbird/Profiles/xoxled0d.default-release/webaccountMail/outlook.office365.com/ServiceNow.sbd/NeedApprove
+2025-09-07 14:17:48,408 - INFO - 处理需要批准的邮件: RITM1602557 | Approval Required / Approbation Requise
+2025-09-07 14:17:48,408 - INFO - 发件人: lululemon ServiceNow <luluprod@service-now.com>
+2025-09-07 14:17:48,408 - INFO - 生成回复主题: Re: RITM1602557 - approve
+2025-09-07 14:17:48,462 - INFO - 从原始邮件提取到Ref信息: Ref:MSG85341635
+2025-09-07 14:17:48,462 - INFO - 准备发送邮件到: "luluprod@service-now.com" <luluprod@service-now.com>
+2025-09-07 14:17:48,462 - INFO - 主题: Re: RITM1602557 - approve
+2025-09-07 14:17:48,462 - INFO - 邮件客户端: thunderbird
+2025-09-07 14:17:48,462 - INFO - 发送模式: 自动发送
+2025-09-07 14:18:14,705 - INFO - ✅ 邮件已自动发送
+2025-09-07 14:18:14,706 - INFO - 成功处理邮件 1: RITM1602557 | Approval Required / Approbation Requise
+2025-09-07 14:18:14,816 - INFO - 从源文件删除邮件: RITM1602557 | Approval Required / Approbation Requise
+2025-09-07 14:18:14,817 - INFO - ✅ 邮件已移动到Processed: RITM1602557 | Approval Required / Approbation Requise
+2025-09-07 14:18:14,817 - INFO - 📁 邮件已移动到Processed文件夹
+2025-09-07 14:18:14,817 - INFO - 等待 15 秒，确保前一封邮件处理完成...
+2025-09-07 14:18:29,822 - INFO - 处理需要批准的邮件: RITM1603909 | Approval Required / Approbation Requise
+2025-09-07 14:18:29,823 - INFO - 发件人: lululemon ServiceNow <luluprod@service-now.com>
+2025-09-07 14:18:29,824 - INFO - 生成回复主题: Re: RITM1603909 - approve
+2025-09-07 14:18:29,902 - INFO - 从原始邮件提取到Ref信息: Ref:MSG85394475
+2025-09-07 14:18:29,902 - INFO - 准备发送邮件到: "luluprod@service-now.com" <luluprod@service-now.com>
+2025-09-07 14:18:29,902 - INFO - 主题: Re: RITM1603909 - approve
+2025-09-07 14:18:29,902 - INFO - 邮件客户端: thunderbird
+2025-09-07 14:18:29,903 - INFO - 发送模式: 自动发送
+2025-09-07 14:18:55,366 - INFO - ✅ 邮件已自动发送
+2025-09-07 14:18:55,368 - INFO - 成功处理邮件 2: RITM1603909 | Approval Required / Approbation Requise
+2025-09-07 14:18:55,468 - INFO - 从源文件删除邮件: RITM1603909 | Approval Required / Approbation Requise
+2025-09-07 14:18:55,469 - INFO - ✅ 邮件已移动到Processed: RITM1603909 | Approval Required / Approbation Requise
+2025-09-07 14:18:55,469 - INFO - 📁 邮件已移动到Processed文件夹
+2025-09-07 14:18:55,469 - INFO - 本次处理了 2 封邮件
+2025-09-07 14:18:55,478 - DEBUG - NativeEvent(path="/Users/liqilong/Library/thunderbird/Profiles/xoxled0d.default-release/webaccountMail/outlook.office365.com/ServiceNow.sbd/NeedApprove", inode=18345264, flags=11400, id=332307889): is_file, is_inode_meta_mod, is_modified
+2025-09-07 14:18:55,478 - DEBUG - drop event FileModifiedEvent(src_path='/Users/liqilong/Library/thunderbird/Profiles/xoxled0d.default-release/webaccountMail/outlook.office365.com/ServiceNow.sbd/NeedApprove', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+2025-09-07 14:19:44,385 - DEBUG - NativeEvent(path="/Users/liqilong/Library/thunderbird/Profiles/xoxled0d.default-release/webaccountMail/outlook.office365.com/ServiceNow.sbd/NeedApprove.msf", inode=18293963, flags=11400, id=332310141): is_file, is_inode_meta_mod, is_modified
+2025-09-07 14:19:44,386 - DEBUG - drop event FileModifiedEvent(src_path='/Users/liqilong/Library/thunderbird/Profiles/xoxled0d.default-release/webaccountMail/outlook.office365.com/ServiceNow.sbd/NeedApprove.msf', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+2025-09-07 14:19:49,849 - DEBUG - NativeEvent(path="/Users/liqilong/Library/thunderbird/Profiles/xoxled0d.default-release/webaccountMail/outlook.office365.com/ServiceNow.sbd/Processed.msf", inode=18390181, flags=11000, id=332310727): is_file, is_modified
+2025-09-07 14:19:49,849 - DEBUG - NativeEvent(path="/Users/liqilong/Library/thunderbird/Profiles/xoxled0d.default-release/webaccountMail/outlook.office365.com/ServiceNow.sbd/NeedApprove.msf", inode=18293963, flags=11400, id=332310730): is_file, is_inode_meta_mod, is_modified
+2025-09-07 14:19:49,849 - DEBUG - drop event FileModifiedEvent(src_path='/Users/liqilong/Library/thunderbird/Profiles/xoxled0d.default-release/webaccountMail/outlook.office365.com/ServiceNow.sbd/Processed.msf', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+2025-09-07 14:19:49,850 - DEBUG - drop event FileModifiedEvent(src_path='/Users/liqilong/Library/thunderbird/Profiles/xoxled0d.default-release/webaccountMail/outlook.office365.com/ServiceNow.sbd/NeedApprove.msf', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+2025-09-07 14:20:03,131 - DEBUG - NativeEvent(path="/Users/liqilong/Library/thunderbird/Profiles/xoxled0d.default-release/webaccountMail/outlook.office365.com/ServiceNow.sbd/Processed.msf", inode=18390181, flags=11000, id=332313220): is_file, is_modified
+2025-09-07 14:20:03,132 - DEBUG - drop event FileModifiedEvent(src_path='/Users/liqilong/Library/thunderbird/Profiles/xoxled0d.default-release/webaccountMail/outlook.office365.com/ServiceNow.sbd/Processed.msf', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+2025-09-07 14:20:16,093 - DEBUG - NativeEvent(path="/Users/liqilong/Library/thunderbird/Profiles/xoxled0d.default-release/webaccountMail/outlook.office365.com/ServiceNow.sbd/NeedApprove.msf", inode=18293963, flags=11000, id=332313791): is_file, is_modified
+2025-09-07 14:20:16,093 - DEBUG - drop event FileModifiedEvent(src_path='/Users/liqilong/Library/thunderbird/Profiles/xoxled0d.default-release/webaccountMail/outlook.office365.com/ServiceNow.sbd/NeedApprove.msf', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+2025-09-07 14:22:20,950 - DEBUG - NativeEvent(path="/Users/liqilong/Library/thunderbird/Profiles/xoxled0d.default-release/webaccountMail/outlook.office365.com/ServiceNow.sbd/NeedApprove.msf", inode=18293963, flags=11000, id=332330778): is_file, is_modified
+2025-09-07 14:22:20,953 - DEBUG - drop event FileModifiedEvent(src_path='/Users/liqilong/Library/thunderbird/Profiles/xoxled0d.default-release/webaccountMail/outlook.office365.com/ServiceNow.sbd/NeedApprove.msf', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+2025-09-07 14:30:50,685 - INFO - 处理mbox文件: /Users/liqilong/Library/Thunderbird/Profiles/xoxled0d.default-release/Mail/Local Folders/Archives.sbd/ServiceNow.sbd/NeedApprove
+2025-09-07 14:33:37,679 - INFO - 开始监控邮件目录: /Users/liqilong/Library/Thunderbird/Profiles/xoxled0d.default-release/Mail/Local Folders/Archives.sbd/ServiceNow.sbd
+2025-09-07 14:33:37,679 - INFO - 处理mbox文件: /Users/liqilong/Library/Thunderbird/Profiles/xoxled0d.default-release/Mail/Local Folders/Archives.sbd/ServiceNow.sbd/NeedApprove
+2025-09-07 14:33:37,696 - INFO - 处理需要批准的邮件: RITM1603909 | Approval Required / Approbation Requise
+2025-09-07 14:33:37,696 - INFO - 发件人: lululemon ServiceNow <luluprod@service-now.com>
+2025-09-07 14:33:37,696 - INFO - Short description: China Cloud Resource Request
+2025-09-07 14:33:37,696 - INFO - 生成回复主题: Re: RITM1603909 - approve
+2025-09-07 14:33:37,750 - INFO - 从原始邮件提取到Ref信息: Ref:MSG85394475
+2025-09-07 14:33:37,750 - INFO - 准备发送邮件到: "luluprod@service-now.com" <luluprod@service-now.com>
+2025-09-07 14:33:37,750 - INFO - 主题: Re: RITM1603909 - approve
+2025-09-07 14:33:37,750 - INFO - 邮件客户端: thunderbird
+2025-09-07 14:33:37,750 - INFO - 发送模式: 自动发送
+2025-09-07 14:34:03,882 - INFO - ✅ 邮件已自动发送
+2025-09-07 14:34:03,884 - INFO - 成功处理邮件 1: RITM1603909 | Approval Required / Approbation Requise
+2025-09-07 14:34:03,931 - INFO - 从源文件删除邮件: RITM1603909 | Approval Required / Approbation Requise
+2025-09-07 14:34:03,931 - INFO - ✅ 邮件已移动到Processed: RITM1603909 | Approval Required / Approbation Requise
+2025-09-07 14:34:03,932 - INFO - 📁 邮件已移动到Processed文件夹
+2025-09-07 14:34:03,932 - INFO - 本次处理了 1 封邮件
+2025-09-07 14:50:31,450 - INFO - 处理mbox文件: /Users/liqilong/Library/Thunderbird/Profiles/xoxled0d.default-release/Mail/Local Folders/Archives.sbd/ServiceNow.sbd/NeedApprove
+2025-09-07 14:50:31,500 - INFO - 处理需要批准的邮件: RITM1602561 | Approval Required / Approbation Requise
+2025-09-07 14:50:31,501 - INFO - 发件人: lululemon ServiceNow <luluprod@service-now.com>
+2025-09-07 14:50:31,501 - INFO - Short description: China Cloud Resource Request
+2025-09-07 14:50:31,501 - INFO - 生成回复主题: Re: RITM1602561 - approve
+2025-09-07 14:50:31,549 - INFO - 从原始邮件提取到Ref信息: Ref:MSG85340053
+2025-09-07 14:50:31,549 - INFO - 准备发送邮件到: "luluprod@service-now.com" <luluprod@service-now.com>
+2025-09-07 14:50:31,549 - INFO - 主题: Re: RITM1602561 - approve
+2025-09-07 14:50:31,549 - INFO - 邮件客户端: thunderbird
+2025-09-07 14:50:31,549 - INFO - 发送模式: 自动发送
+2025-09-07 14:50:57,130 - INFO - ✅ 邮件已自动发送
+2025-09-07 14:50:57,131 - INFO - 成功处理邮件 1: RITM1602561 | Approval Required / Approbation Requise
+2025-09-07 14:50:57,231 - INFO - 从源文件删除邮件: RITM1602561 | Approval Required / Approbation Requise
+2025-09-07 14:50:57,231 - INFO - ✅ 邮件已移动到Processed: RITM1602561 | Approval Required / Approbation Requise
+2025-09-07 14:50:57,231 - INFO - 📁 邮件已移动到Processed文件夹
+2025-09-07 14:50:57,231 - INFO - 等待 15 秒，确保前一封邮件处理完成...
+2025-09-07 14:51:12,236 - INFO - 处理需要批准的邮件: RITM1602500 | Approval Required / Approbation Requise
+2025-09-07 14:51:12,237 - INFO - 发件人: lululemon ServiceNow <luluprod@service-now.com>
+2025-09-07 14:51:12,237 - INFO - Short description: CN-Server & DB Access Control
+2025-09-07 14:51:12,237 - INFO - 生成回复主题: Re: RITM1602500 - approve
+2025-09-07 14:51:12,286 - INFO - 从原始邮件提取到Ref信息: Ref:MSG85339375
+2025-09-07 14:51:12,287 - INFO - 准备发送邮件到: "luluprod@service-now.com" <luluprod@service-now.com>
+2025-09-07 14:51:12,287 - INFO - 主题: Re: RITM1602500 - approve
+2025-09-07 14:51:12,287 - INFO - 邮件客户端: thunderbird
+2025-09-07 14:51:12,287 - INFO - 发送模式: 自动发送
+2025-09-07 14:51:37,677 - INFO - ✅ 邮件已自动发送
+2025-09-07 14:51:37,678 - INFO - 成功处理邮件 2: RITM1602500 | Approval Required / Approbation Requise
+2025-09-07 14:51:37,734 - INFO - 从源文件删除邮件: RITM1602500 | Approval Required / Approbation Requise
+2025-09-07 14:51:37,734 - INFO - ✅ 邮件已移动到Processed: RITM1602500 | Approval Required / Approbation Requise
+2025-09-07 14:51:37,734 - INFO - 📁 邮件已移动到Processed文件夹
+2025-09-07 14:51:37,734 - INFO - 等待 15 秒，确保前一封邮件处理完成...
+2025-09-07 14:51:52,739 - INFO - 处理需要批准的邮件: RITM1602277 | Approval Required / Approbation Requise
+2025-09-07 14:51:52,740 - INFO - 发件人: lululemon ServiceNow <luluprod@service-now.com>
+2025-09-07 14:51:52,740 - INFO - Short description: China Cloud account and permission request | undefined | Jeremy Huang
+2025-09-07 14:51:52,740 - INFO - 生成回复主题: Re: RITM1602277 - approve
+2025-09-07 14:51:52,786 - INFO - 从原始邮件提取到Ref信息: Ref:MSG85339175
+2025-09-07 14:51:52,786 - INFO - 准备发送邮件到: "luluprod@service-now.com" <luluprod@service-now.com>
+2025-09-07 14:51:52,786 - INFO - 主题: Re: RITM1602277 - approve
+2025-09-07 14:51:52,786 - INFO - 邮件客户端: thunderbird
+2025-09-07 14:51:52,786 - INFO - 发送模式: 自动发送
+2025-09-07 14:52:18,212 - INFO - ✅ 邮件已自动发送
+2025-09-07 14:52:18,213 - INFO - 成功处理邮件 3: RITM1602277 | Approval Required / Approbation Requise
+2025-09-07 14:52:18,253 - INFO - 从源文件删除邮件: RITM1602277 | Approval Required / Approbation Requise
+2025-09-07 14:52:18,253 - INFO - ✅ 邮件已移动到Processed: RITM1602277 | Approval Required / Approbation Requise
+2025-09-07 14:52:18,253 - INFO - 📁 邮件已移动到Processed文件夹
+2025-09-07 14:52:18,254 - INFO - 本次处理了 3 封邮件
+2025-09-07 14:55:38,001 - INFO - 开始监控邮件目录: /Users/liqilong/Library/Thunderbird/Profiles/xoxled0d.default-release/Mail/Local Folders/Archives.sbd/ServiceNow.sbd
+2025-09-07 14:55:38,001 - INFO - 处理mbox文件: /Users/liqilong/Library/Thunderbird/Profiles/xoxled0d.default-release/Mail/Local Folders/Archives.sbd/ServiceNow.sbd/NeedApprove
+2025-09-07 14:55:38,032 - INFO - 处理需要批准的邮件: RITM1600889 | Approval Required / Approbation Requise
+2025-09-07 14:55:38,032 - INFO - 发件人: lululemon ServiceNow <luluprod@service-now.com>
+2025-09-07 14:55:38,032 - INFO - Short description: China Cloud Resource Request
+2025-09-07 14:55:38,032 - INFO - 生成回复主题: Re: RITM1600889 - approve
+2025-09-07 14:55:38,084 - INFO - 从原始邮件提取到Ref信息: Ref:MSG85279130
+2025-09-07 14:55:38,084 - INFO - 准备发送邮件到: "luluprod@service-now.com" <luluprod@service-now.com>
+2025-09-07 14:55:38,084 - INFO - 主题: Re: RITM1600889 - approve
+2025-09-07 14:55:38,084 - INFO - 邮件客户端: thunderbird
+2025-09-07 14:55:38,084 - INFO - 发送模式: 自动发送
+2025-09-07 14:56:03,509 - INFO - ✅ 邮件已自动发送
+2025-09-07 14:56:03,511 - INFO - 成功处理邮件 1: RITM1600889 | Approval Required / Approbation Requise
+2025-09-07 14:56:03,583 - INFO - 从源文件删除邮件: RITM1600889 | Approval Required / Approbation Requise
+2025-09-07 14:56:03,583 - INFO - ✅ 邮件已移动到Processed: RITM1600889 | Approval Required / Approbation Requise
+2025-09-07 14:56:03,583 - INFO - 📁 邮件已移动到Processed文件夹
+2025-09-07 14:56:03,583 - INFO - 等待 15 秒，确保前一封邮件处理完成...
+2025-09-07 14:56:18,586 - INFO - 处理需要批准的邮件: RITM1599385 | Approval Required / Approbation Requise
+2025-09-07 14:56:18,587 - INFO - 发件人: lululemon ServiceNow <luluprod@service-now.com>
+2025-09-07 14:56:18,587 - INFO - Short description: China Cloud account and permission request | undefined | Judy Gao
+2025-09-07 14:56:18,587 - INFO - 生成回复主题: Re: RITM1599385 - approve
+2025-09-07 14:56:18,644 - INFO - 从原始邮件提取到Ref信息: Ref:MSG85214661
+2025-09-07 14:56:18,645 - INFO - 准备发送邮件到: "luluprod@service-now.com" <luluprod@service-now.com>
+2025-09-07 14:56:18,645 - INFO - 主题: Re: RITM1599385 - approve
+2025-09-07 14:56:18,645 - INFO - 邮件客户端: thunderbird
+2025-09-07 14:56:18,645 - INFO - 发送模式: 自动发送
+2025-09-07 14:56:44,167 - INFO - ✅ 邮件已自动发送
+2025-09-07 14:56:44,170 - INFO - 成功处理邮件 2: RITM1599385 | Approval Required / Approbation Requise
+2025-09-07 14:56:44,223 - INFO - 从源文件删除邮件: RITM1599385 | Approval Required / Approbation Requise
+2025-09-07 14:56:44,224 - INFO - ✅ 邮件已移动到Processed: RITM1599385 | Approval Required / Approbation Requise
+2025-09-07 14:56:44,224 - INFO - 📁 邮件已移动到Processed文件夹
+2025-09-07 14:56:44,224 - INFO - 本次处理了 2 封邮件
+2025-09-07 14:58:23,764 - INFO - 处理mbox文件: /Users/liqilong/Library/Thunderbird/Profiles/xoxled0d.default-release/Mail/Local Folders/Archives.sbd/ServiceNow.sbd/NeedApprove
+2025-09-07 14:58:23,782 - INFO - 处理需要批准的邮件: RITM1599526 | Approval Required / Approbation Requise
+2025-09-07 14:58:23,782 - INFO - 发件人: lululemon ServiceNow <luluprod@service-now.com>
+2025-09-07 14:58:23,782 - INFO - Short description: China Cloud account and permission request | undefined | Julius Zhu
+2025-09-07 14:58:23,782 - INFO - 生成回复主题: Re: RITM1599526 - approve
+2025-09-07 14:58:23,826 - INFO - 从原始邮件提取到Ref信息: Ref:MSG85213261
+2025-09-07 14:58:23,826 - INFO - 准备发送邮件到: "luluprod@service-now.com" <luluprod@service-now.com>
+2025-09-07 14:58:23,826 - INFO - 主题: Re: RITM1599526 - approve
+2025-09-07 14:58:23,826 - INFO - 邮件客户端: thunderbird
+2025-09-07 14:58:23,827 - INFO - 发送模式: 自动发送
+2025-09-07 14:58:49,253 - INFO - ✅ 邮件已自动发送
+2025-09-07 14:58:49,254 - INFO - 成功处理邮件 1: RITM1599526 | Approval Required / Approbation Requise
+2025-09-07 14:58:49,294 - INFO - 从源文件删除邮件: RITM1599526 | Approval Required / Approbation Requise
+2025-09-07 14:58:49,294 - INFO - ✅ 邮件已移动到Processed: RITM1599526 | Approval Required / Approbation Requise
+2025-09-07 14:58:49,294 - INFO - 📁 邮件已移动到Processed文件夹
+2025-09-07 14:58:49,294 - INFO - 本次处理了 1 封邮件
+2025-09-07 15:05:58,442 - INFO - 处理mbox文件: /Users/liqilong/Library/Thunderbird/Profiles/xoxled0d.default-release/Mail/Local Folders/Archives.sbd/ServiceNow.sbd/NeedApprove
+2025-09-07 15:05:58,442 - INFO - mbox文件中没有找到邮件
+2025-09-07 15:08:22,660 - INFO - 处理mbox文件: /Users/liqilong/Library/Thunderbird/Profiles/xoxled0d.default-release/Mail/Local Folders/Archives.sbd/ServiceNow.sbd/NeedApprove
+2025-09-07 15:08:22,678 - INFO - 处理需要批准的邮件: RITM1599572 | Approval Required / Approbation Requise
+2025-09-07 15:08:22,679 - INFO - 发件人: lululemon ServiceNow <luluprod@service-now.com>
+2025-09-07 15:08:22,679 - INFO - Short description: China Cloud account and permission request | undefined | Mason Xu
+2025-09-07 15:08:22,679 - INFO - 生成回复主题: Re: RITM1599572 - approve
+2025-09-07 15:08:22,724 - INFO - 从原始邮件提取到Ref信息: Ref:MSG85213201
+2025-09-07 15:08:22,724 - INFO - 准备发送邮件到: "luluprod@service-now.com" <luluprod@service-now.com>
+2025-09-07 15:08:22,724 - INFO - 主题: Re: RITM1599572 - approve
+2025-09-07 15:08:22,724 - INFO - 邮件客户端: thunderbird
+2025-09-07 15:08:22,724 - INFO - 发送模式: 自动发送
+2025-09-07 15:08:48,318 - INFO - ✅ 邮件已自动发送
+2025-09-07 15:08:48,320 - INFO - 成功处理邮件 1: RITM1599572 | Approval Required / Approbation Requise
+2025-09-07 15:08:48,364 - INFO - 从源文件删除邮件: RITM1599572 | Approval Required / Approbation Requise
+2025-09-07 15:08:48,365 - INFO - ✅ 邮件已移动到Processed: RITM1599572 | Approval Required / Approbation Requise
+2025-09-07 15:08:48,365 - INFO - 📁 邮件已移动到Processed文件夹
+2025-09-07 15:08:48,365 - INFO - 本次处理了 1 封邮件
+2025-09-07 15:39:15,217 - INFO - 处理mbox文件: /Users/liqilong/Library/Thunderbird/Profiles/xoxled0d.default-release/Mail/Local Folders/Archives.sbd/ServiceNow.sbd/NeedApprove
+2025-09-07 15:39:15,237 - INFO - 处理需要批准的邮件: RITM1602185 | Approval Required / Approbation Requise
+2025-09-07 15:39:15,237 - INFO - 发件人: lululemon ServiceNow <luluprod@service-now.com>
+2025-09-07 15:39:15,237 - INFO - Short description: China Cloud account and permission request | undefined | cong xu
+2025-09-07 15:39:15,237 - INFO - 生成回复主题: Re: RITM1602185 - approve
+2025-09-07 15:39:15,285 - INFO - 从原始邮件提取到Ref信息: Ref:MSG85395759
+2025-09-07 15:39:15,285 - INFO - 准备发送邮件到: "luluprod@service-now.com" <luluprod@service-now.com>
+2025-09-07 15:39:15,285 - INFO - 主题: Re: RITM1602185 - approve
+2025-09-07 15:39:15,285 - INFO - 邮件客户端: thunderbird
+2025-09-07 15:39:15,285 - INFO - 发送模式: 自动发送
+2025-09-07 15:39:40,974 - INFO - ✅ 邮件已自动发送
+2025-09-07 15:39:40,976 - INFO - 成功处理邮件 1: RITM1602185 | Approval Required / Approbation Requise
+2025-09-07 15:39:41,015 - INFO - 从源文件删除邮件: RITM1602185 | Approval Required / Approbation Requise
+2025-09-07 15:39:41,015 - INFO - ✅ 邮件已移动到Processed: RITM1602185 | Approval Required / Approbation Requise
+2025-09-07 15:39:41,016 - INFO - 📁 邮件已移动到Processed文件夹
+2025-09-07 15:39:41,016 - INFO - 本次处理了 1 封邮件
+2025-09-07 15:44:47,173 - INFO - 处理mbox文件: /Users/liqilong/Library/Thunderbird/Profiles/xoxled0d.default-release/Mail/Local Folders/Archives.sbd/ServiceNow.sbd/NeedApprove
+2025-09-07 15:44:47,195 - INFO - 处理需要批准的邮件: RITM1603887 | Approval Required / Approbation Requise
+2025-09-07 15:44:47,195 - INFO - 发件人: lululemon ServiceNow <luluprod@service-now.com>
+2025-09-07 15:44:47,195 - INFO - Short description: China Cloud account and permission request | undefined | Guanchun Xu
+2025-09-07 15:44:47,195 - INFO - 生成回复主题: Re: RITM1603887 - approve
+2025-09-07 15:44:47,244 - INFO - 从原始邮件提取到Ref信息: Ref:MSG85395299
+2025-09-07 15:44:47,244 - INFO - 准备发送邮件到: "luluprod@service-now.com" <luluprod@service-now.com>
+2025-09-07 15:44:47,244 - INFO - 主题: Re: RITM1603887 - approve
+2025-09-07 15:44:47,244 - INFO - 邮件客户端: thunderbird
+2025-09-07 15:44:47,244 - INFO - 发送模式: 自动发送
+2025-09-07 15:45:12,876 - INFO - ✅ 邮件已自动发送
+2025-09-07 15:45:12,878 - INFO - 成功处理邮件 1: RITM1603887 | Approval Required / Approbation Requise
+2025-09-07 15:45:12,925 - INFO - 从源文件删除邮件: RITM1603887 | Approval Required / Approbation Requise
+2025-09-07 15:45:12,925 - INFO - ✅ 邮件已移动到Processed: RITM1603887 | Approval Required / Approbation Requise
+2025-09-07 15:45:12,925 - INFO - 📁 邮件已移动到Processed文件夹
+2025-09-07 15:45:12,925 - INFO - 本次处理了 1 封邮件
+2025-09-07 15:54:04,089 - INFO - 处理mbox文件: /Users/liqilong/Library/Thunderbird/Profiles/xoxled0d.default-release/Mail/Local Folders/Archives.sbd/ServiceNow.sbd/NeedApprove
+2025-09-07 15:54:04,089 - INFO - mbox文件中没有找到邮件
+2025-09-07 15:54:36,186 - INFO - 处理mbox文件: /Users/liqilong/Library/Thunderbird/Profiles/xoxled0d.default-release/Mail/Local Folders/Archives.sbd/ServiceNow.sbd/NeedApprove
+2025-09-07 15:54:36,204 - INFO - 正在提取China Cloud字段...
+2025-09-07 15:54:36,204 - INFO - 提取到Environment: Prod
+2025-09-07 15:54:36,205 - INFO - 提取到Required Permissions: 用户申请CMM系统权限
+2025-09-07 15:54:36,205 - INFO - 提取到Reason: 用户申请CMM系统权限
+2025-09-07 15:54:36,206 - INFO - 处理需要批准的邮件: RITM1603697 | Approval Required / Approbation Requise
+2025-09-07 15:54:36,206 - INFO - 发件人: lululemon ServiceNow <luluprod@service-now.com>
+2025-09-07 15:54:36,206 - INFO - Short description: China Cloud account and permission request | undefined | Lu Tang
+2025-09-07 15:54:36,206 - INFO - 生成回复主题: Re: RITM1603697 - approve
+2025-09-07 15:54:36,251 - INFO - 从原始邮件提取到Ref信息: Ref:MSG85393477
+2025-09-07 15:54:36,251 - INFO - 准备发送邮件到: "luluprod@service-now.com" <luluprod@service-now.com>
+2025-09-07 15:54:36,251 - INFO - 主题: Re: RITM1603697 - approve
+2025-09-07 15:54:36,251 - INFO - 邮件客户端: thunderbird
+2025-09-07 15:54:36,251 - INFO - 发送模式: 自动发送
+2025-09-07 15:55:02,291 - INFO - ✅ 邮件已自动发送
+2025-09-07 15:55:02,293 - INFO - 成功处理邮件 1: RITM1603697 | Approval Required / Approbation Requise
+2025-09-07 15:55:02,341 - INFO - 正在提取China Cloud字段...
+2025-09-07 15:55:02,341 - INFO - 提取到Environment: Prod
+2025-09-07 15:55:02,341 - INFO - 提取到Required Permissions: 用户申请CMM系统权限
+2025-09-07 15:55:02,341 - INFO - 提取到Reason: 用户申请CMM系统权限
+2025-09-07 15:55:02,342 - INFO - 从源文件删除邮件: RITM1603697 | Approval Required / Approbation Requise
+2025-09-07 15:55:02,342 - INFO - ✅ 邮件已移动到Processed: RITM1603697 | Approval Required / Approbation Requise
+2025-09-07 15:55:02,342 - INFO - 📁 邮件已移动到Processed文件夹
+2025-09-07 15:55:02,342 - INFO - 本次处理了 1 封邮件
+2025-09-07 16:00:45,340 - INFO - 处理mbox文件: /Users/liqilong/Library/Thunderbird/Profiles/xoxled0d.default-release/Mail/Local Folders/Archives.sbd/ServiceNow.sbd/NeedApprove
+2025-09-07 16:00:45,359 - INFO - 正在提取China Cloud字段...
+2025-09-07 16:00:45,359 - INFO - 提取到Environment: Prod
+2025-09-07 16:00:45,359 - INFO - 提取到Required Permissions: 保持当前权限不变
+2025-09-07 16:00:45,360 - INFO - 提取到Reason: DBA需要对rds数据库进行管理、监控、赋权、故障处理等运维优化操作
+2025-09-07 16:00:45,360 - INFO - 处理需要批准的邮件: RITM1602185 | Approval Required / Approbation Requise
+2025-09-07 16:00:45,360 - INFO - 发件人: lululemon ServiceNow <luluprod@service-now.com>
+2025-09-07 16:00:45,360 - INFO - Short description: China Cloud account and permission request | undefined | cong xu
+2025-09-07 16:00:45,360 - INFO - 生成回复主题: Re: RITM1602185 - approve
+2025-09-07 16:00:45,427 - INFO - 从原始邮件提取到Ref信息: Ref:MSG85395759
+2025-09-07 16:00:45,427 - INFO - 准备发送邮件到: "luluprod@service-now.com" <luluprod@service-now.com>
+2025-09-07 16:00:45,428 - INFO - 主题: Re: RITM1602185 - approve
+2025-09-07 16:00:45,428 - INFO - 邮件客户端: thunderbird
+2025-09-07 16:00:45,428 - INFO - 发送模式: 自动发送
+2025-09-07 16:01:11,089 - INFO - ✅ 邮件已自动发送
+2025-09-07 16:01:11,090 - INFO - 成功处理邮件 1: RITM1602185 | Approval Required / Approbation Requise
+2025-09-07 16:01:11,138 - INFO - 正在提取China Cloud字段...
+2025-09-07 16:01:11,138 - INFO - 提取到Environment: Prod
+2025-09-07 16:01:11,138 - INFO - 提取到Required Permissions: 保持当前权限不变
+2025-09-07 16:01:11,138 - INFO - 提取到Reason: DBA需要对rds数据库进行管理、监控、赋权、故障处理等运维优化操作
+2025-09-07 16:01:11,140 - INFO - 从源文件删除邮件: RITM1602185 | Approval Required / Approbation Requise
+2025-09-07 16:01:11,140 - INFO - ✅ 邮件已移动到Processed: RITM1602185 | Approval Required / Approbation Requise
+2025-09-07 16:01:11,140 - INFO - 📁 邮件已移动到Processed文件夹
+2025-09-07 16:01:11,140 - INFO - 本次处理了 1 封邮件
+2025-09-07 16:24:30,898 - ERROR - 需要安装openpyxl库: pip install openpyxl
+2025-09-07 16:26:15,671 - INFO - 处理mbox文件: /Users/liqilong/Library/Thunderbird/Profiles/xoxled0d.default-release/Mail/Local Folders/Archives.sbd/ServiceNow.sbd/NeedApprove
+2025-09-07 16:26:15,690 - INFO - 正在提取China Cloud字段...
+2025-09-07 16:26:15,690 - INFO - 提取到Environment: Prod
+2025-09-07 16:26:15,691 - INFO - 提取到Required Permissions: 用户申请CMM系统权限
+2025-09-07 16:26:15,691 - INFO - 提取到Reason: 用户申请CMM系统权限
+2025-09-07 16:26:15,691 - INFO - 处理需要批准的邮件: RITM1603697 | Approval Required / Approbation Requise
+2025-09-07 16:26:15,691 - INFO - 发件人: lululemon ServiceNow <luluprod@service-now.com>
+2025-09-07 16:26:15,691 - INFO - Short description: China Cloud account and permission request | undefined | Lu Tang
+2025-09-07 16:26:15,691 - INFO - 生成回复主题: Re: RITM1603697 - approve
+2025-09-07 16:26:15,727 - INFO - 从原始邮件提取到Ref信息: Ref:MSG85393477
+2025-09-07 16:26:15,727 - INFO - 准备发送邮件到: "luluprod@service-now.com" <luluprod@service-now.com>
+2025-09-07 16:26:15,727 - INFO - 主题: Re: RITM1603697 - approve
+2025-09-07 16:26:15,727 - INFO - 邮件客户端: thunderbird
+2025-09-07 16:26:15,727 - INFO - 发送模式: 自动发送
+2025-09-07 16:26:41,334 - INFO - ✅ 邮件已自动发送
+2025-09-07 16:26:41,336 - INFO - 成功处理邮件 1: RITM1603697 | Approval Required / Approbation Requise
+2025-09-07 16:26:41,386 - INFO - 正在提取China Cloud字段...
+2025-09-07 16:26:41,387 - INFO - 提取到Environment: Prod
+2025-09-07 16:26:41,387 - INFO - 提取到Required Permissions: 用户申请CMM系统权限
+2025-09-07 16:26:41,387 - INFO - 提取到Reason: 用户申请CMM系统权限
+2025-09-07 16:26:41,393 - INFO - 从源文件删除邮件: RITM1603697 | Approval Required / Approbation Requise
+2025-09-07 16:26:41,393 - INFO - ✅ 邮件已移动到Processed: RITM1603697 | Approval Required / Approbation Requise
+2025-09-07 16:26:41,393 - INFO - 📁 邮件已移动到Processed文件夹
+2025-09-07 16:26:41,397 - INFO - 本次处理了 1 封邮件
+2025-09-07 17:04:55,831 - INFO - 处理mbox文件: /Users/liqilong/Library/Thunderbird/Profiles/xoxled0d.default-release/Mail/Local Folders/Archives.sbd/ServiceNow.sbd/NeedApprove
+2025-09-07 17:04:55,850 - INFO - 正在提取China Cloud Resource Request字段...
+2025-09-07 17:04:55,850 - INFO - 提取到Environment: Prod
+2025-09-07 17:04:55,850 - INFO - 提取到Resource Info: 申请生产环境资源
+2025-09-07 17:04:55,850 - INFO - 提取到Reason: 新增的业务在对外提供数据查询功能中，会导致共享数据库CPU升高，暂时无法优化业务功能。为了避免影响共享RDS实例上其他业务，申请开启新的RDS实例给AMBHUB使用。
+2025-09-07 17:04:55,851 - INFO - 处理需要批准的邮件: RITM1603909 | Approval Required / Approbation Requise
+2025-09-07 17:04:55,851 - INFO - 发件人: lululemon ServiceNow <luluprod@service-now.com>
+2025-09-07 17:04:55,851 - INFO - Short description: China Cloud Resource Request
+2025-09-07 17:04:55,851 - INFO - 生成回复主题: Re: RITM1603909 - approve
+2025-09-07 17:04:55,900 - INFO - 从原始邮件提取到Ref信息: Ref:MSG85394475
+2025-09-07 17:04:55,900 - INFO - 准备发送邮件到: "luluprod@service-now.com" <luluprod@service-now.com>
+2025-09-07 17:04:55,900 - INFO - 主题: Re: RITM1603909 - approve
+2025-09-07 17:04:55,900 - INFO - 邮件客户端: thunderbird
+2025-09-07 17:04:55,900 - INFO - 发送模式: 自动发送
+2025-09-07 17:05:21,646 - INFO - ✅ 邮件已自动发送
+2025-09-07 17:05:21,648 - INFO - 成功处理邮件 1: RITM1603909 | Approval Required / Approbation Requise
+2025-09-07 17:05:21,699 - INFO - 正在提取China Cloud Resource Request字段...
+2025-09-07 17:05:21,699 - INFO - 提取到Environment: Prod
+2025-09-07 17:05:21,699 - INFO - 提取到Resource Info: 申请生产环境资源
+2025-09-07 17:05:21,699 - INFO - 提取到Reason: 新增的业务在对外提供数据查询功能中，会导致共享数据库CPU升高，暂时无法优化业务功能。为了避免影响共享RDS实例上其他业务，申请开启新的RDS实例给AMBHUB使用。
+2025-09-07 17:05:21,700 - INFO - 从源文件删除邮件: RITM1603909 | Approval Required / Approbation Requise
+2025-09-07 17:05:21,700 - INFO - ✅ 邮件已移动到Processed: RITM1603909 | Approval Required / Approbation Requise
+2025-09-07 17:05:21,701 - INFO - 📁 邮件已移动到Processed文件夹
+2025-09-07 17:05:21,701 - INFO - 本次处理了 1 封邮件
+2025-09-07 18:25:00,264 - INFO - 处理mbox文件: /Users/liqilong/Library/Thunderbird/Profiles/xoxled0d.default-release/Mail/Local Folders/Archives.sbd/ServiceNow.sbd/NeedApprove
+2025-09-07 18:25:00,285 - INFO - 正在提取China Cloud Resource Request字段...
+2025-09-07 18:25:00,285 - INFO - 提取到Environment: Non-prod
+2025-09-07 18:25:00,286 - INFO - 提取到Resource Info (多行): 升级AMBHUB QA环境的 RDS
+2025-09-07 18:25:00,286 - INFO - 提取到Reason: WMP业务要求调整压测流量分配后，当前RDS规格不满足压测性能要求，需要临时提升实例规格进行压测
+2025-09-07 18:25:00,287 - INFO - 处理需要批准的邮件: RITM1602561 | Approval Required / Approbation Requise
+2025-09-07 18:25:00,287 - INFO - 发件人: lululemon ServiceNow <luluprod@service-now.com>
+2025-09-07 18:25:00,287 - INFO - Short description: China Cloud Resource Request
+2025-09-07 18:25:00,287 - INFO - 生成回复主题: Re: RITM1602561 - approve
+2025-09-07 18:25:00,336 - INFO - 从原始邮件提取到Ref信息: Ref:MSG85340053
+2025-09-07 18:25:00,337 - INFO - 准备发送邮件到: "luluprod@service-now.com" <luluprod@service-now.com>
+2025-09-07 18:25:00,337 - INFO - 主题: Re: RITM1602561 - approve
+2025-09-07 18:25:00,337 - INFO - 邮件客户端: thunderbird
+2025-09-07 18:25:00,337 - INFO - 发送模式: 自动发送
+2025-09-07 18:25:26,206 - INFO - ✅ 邮件已自动发送
+2025-09-07 18:25:26,208 - INFO - 成功处理邮件 1: RITM1602561 | Approval Required / Approbation Requise
+2025-09-07 18:25:26,243 - INFO - 正在提取China Cloud Resource Request字段...
+2025-09-07 18:25:26,243 - INFO - 提取到Environment: Non-prod
+2025-09-07 18:25:26,243 - INFO - 提取到Resource Info (多行): 升级AMBHUB QA环境的 RDS
+2025-09-07 18:25:26,243 - INFO - 提取到Reason: WMP业务要求调整压测流量分配后，当前RDS规格不满足压测性能要求，需要临时提升实例规格进行压测
+2025-09-07 18:25:26,244 - INFO - 从源文件删除邮件: RITM1602561 | Approval Required / Approbation Requise
+2025-09-07 18:25:26,244 - INFO - ✅ 邮件已移动到Processed: RITM1602561 | Approval Required / Approbation Requise
+2025-09-07 18:25:26,244 - INFO - 📁 邮件已移动到Processed文件夹
+2025-09-07 18:25:26,244 - INFO - 本次处理了 1 封邮件
+2025-09-07 18:26:38,481 - INFO - 处理mbox文件: /Users/liqilong/Library/Thunderbird/Profiles/xoxled0d.default-release/Mail/Local Folders/Archives.sbd/ServiceNow.sbd/NeedApprove
+2025-09-07 18:26:38,482 - INFO - mbox文件中没有找到邮件
+2025-09-07 18:27:53,422 - INFO - 处理mbox文件: /Users/liqilong/Library/Thunderbird/Profiles/xoxled0d.default-release/Mail/Local Folders/Archives.sbd/ServiceNow.sbd/NeedApprove
+2025-09-07 18:27:53,441 - INFO - 正在提取China Cloud Resource Request字段...
+2025-09-07 18:27:53,442 - INFO - 提取到Environment: Non-prod
+2025-09-07 18:27:53,442 - INFO - 提取到Resource Info (多行策略): 需要使用aksk 访问OSS,bucket name: lululemon-sh-noprod-scm-sharedcapability-exclusive-01 AccessKey ID： LTAI5tHLVQ99sGZ2Njmojtnk SecretKey: ${ALIYUN_OSS_SECRET_KEY} https url： https://oss-cn-shanghai-internal.aliyuncs.com Check if the budget can be covered: Yes Confirm whether the architecture is consistent with the original design: Yes
+2025-09-07 18:27:53,442 - INFO - 提取到Reason: 需要使用aksk 访问OSS,bucket name: lululemon-sh-noprod-scm-sharedcapability-exclusive-01
+2025-09-07 18:27:53,443 - INFO - 处理需要批准的邮件: RITM1602588 | Approval Required / Approbation Requise
+2025-09-07 18:27:53,443 - INFO - 发件人: lululemon ServiceNow <luluprod@service-now.com>
+2025-09-07 18:27:53,443 - INFO - Short description: China Cloud Resource Request
+2025-09-07 18:27:53,443 - INFO - 生成回复主题: Re: RITM1602588 - approve
+2025-09-07 18:27:53,487 - INFO - 从原始邮件提取到Ref信息: Ref:MSG85385752
+2025-09-07 18:27:53,487 - INFO - 准备发送邮件到: "luluprod@service-now.com" <luluprod@service-now.com>
+2025-09-07 18:27:53,487 - INFO - 主题: Re: RITM1602588 - approve
+2025-09-07 18:27:53,487 - INFO - 邮件客户端: thunderbird
+2025-09-07 18:27:53,487 - INFO - 发送模式: 自动发送
+2025-09-07 18:28:18,890 - INFO - ✅ 邮件已自动发送
+2025-09-07 18:28:18,891 - INFO - 成功处理邮件 1: RITM1602588 | Approval Required / Approbation Requise
+2025-09-07 18:28:18,931 - INFO - 正在提取China Cloud Resource Request字段...
+2025-09-07 18:28:18,932 - INFO - 提取到Environment: Non-prod
+2025-09-07 18:28:18,932 - INFO - 提取到Resource Info (多行策略): 需要使用aksk 访问OSS,bucket name: lululemon-sh-noprod-scm-sharedcapability-exclusive-01 AccessKey ID： LTAI5tHLVQ99sGZ2Njmojtnk SecretKey: ${ALIYUN_OSS_SECRET_KEY} https url： https://oss-cn-shanghai-internal.aliyuncs.com Check if the budget can be covered: Yes Confirm whether the architecture is consistent with the original design: Yes
+2025-09-07 18:28:18,932 - INFO - 提取到Reason: 需要使用aksk 访问OSS,bucket name: lululemon-sh-noprod-scm-sharedcapability-exclusive-01
+2025-09-07 18:28:18,933 - INFO - 从源文件删除邮件: RITM1602588 | Approval Required / Approbation Requise
+2025-09-07 18:28:18,933 - INFO - ✅ 邮件已移动到Processed: RITM1602588 | Approval Required / Approbation Requise
+2025-09-07 18:28:18,933 - INFO - 📁 邮件已移动到Processed文件夹
+2025-09-07 18:28:18,933 - INFO - 本次处理了 1 封邮件
+2025-09-07 18:31:56,594 - INFO - 处理mbox文件: /Users/liqilong/Library/Thunderbird/Profiles/xoxled0d.default-release/Mail/Local Folders/Archives.sbd/ServiceNow.sbd/NeedApprove
+2025-09-07 18:31:56,613 - INFO - 正在提取China Cloud字段...
+2025-09-07 18:31:56,613 - INFO - 提取到Environment: Non - Prod
+2025-09-07 18:31:56,613 - INFO - 提取到Required Permissions (多行策略): Customs Portal CN Kafka账号申请如下Topic权限 Kafka实例：alikafka-pre-cn-nwy3a8o9p002 账号：capgemini-qa、capgemini-staging 申请Topic： staging-ifpgateway-task-request，staging-ifpgateway-task-result qa-ifpgateway-task-request，qa-ifpgateway-task-result dev-ifpgateway-task-request，dev-ifpgateway-task-result 权限：只读
+2025-09-07 18:31:56,613 - INFO - 提取到Reason: Customs Portal CN Kafka账号申请Topic权限用于识别OCR返回结果
+2025-09-07 18:31:56,614 - INFO - 处理需要批准的邮件: RITM1603887 | Approval Required / Approbation Requise
+2025-09-07 18:31:56,614 - INFO - 发件人: lululemon ServiceNow <luluprod@service-now.com>
+2025-09-07 18:31:56,614 - INFO - Short description: China Cloud account and permission request | undefined | Guanchun Xu
+2025-09-07 18:31:56,614 - INFO - 生成回复主题: Re: RITM1603887 - approve
+2025-09-07 18:31:56,662 - INFO - 从原始邮件提取到Ref信息: Ref:MSG85395299
+2025-09-07 18:31:56,662 - INFO - 准备发送邮件到: "luluprod@service-now.com" <luluprod@service-now.com>
+2025-09-07 18:31:56,662 - INFO - 主题: Re: RITM1603887 - approve
+2025-09-07 18:31:56,662 - INFO - 邮件客户端: thunderbird
+2025-09-07 18:31:56,662 - INFO - 发送模式: 自动发送
+2025-09-07 18:32:22,082 - INFO - ✅ 邮件已自动发送
+2025-09-07 18:32:22,084 - INFO - 成功处理邮件 1: RITM1603887 | Approval Required / Approbation Requise
+2025-09-07 18:32:22,125 - INFO - 正在提取China Cloud字段...
+2025-09-07 18:32:22,125 - INFO - 提取到Environment: Non - Prod
+2025-09-07 18:32:22,125 - INFO - 提取到Required Permissions (多行策略): Customs Portal CN Kafka账号申请如下Topic权限 Kafka实例：alikafka-pre-cn-nwy3a8o9p002 账号：capgemini-qa、capgemini-staging 申请Topic： staging-ifpgateway-task-request，staging-ifpgateway-task-result qa-ifpgateway-task-request，qa-ifpgateway-task-result dev-ifpgateway-task-request，dev-ifpgateway-task-result 权限：只读
+2025-09-07 18:32:22,125 - INFO - 提取到Reason: Customs Portal CN Kafka账号申请Topic权限用于识别OCR返回结果
+2025-09-07 18:32:22,126 - INFO - 从源文件删除邮件: RITM1603887 | Approval Required / Approbation Requise
+2025-09-07 18:32:22,126 - INFO - ✅ 邮件已移动到Processed: RITM1603887 | Approval Required / Approbation Requise
+2025-09-07 18:32:22,126 - INFO - 📁 邮件已移动到Processed文件夹
+2025-09-07 18:32:22,126 - INFO - 本次处理了 1 封邮件
+2025-09-07 18:45:19,858 - INFO - 处理mbox文件: /Users/liqilong/Library/Thunderbird/Profiles/xoxled0d.default-release/Mail/Local Folders/Archives.sbd/ServiceNow.sbd/NeedApprove
+2025-09-07 18:45:19,876 - INFO - 正在提取CN-Server & DB Access Control字段...
+2025-09-07 18:45:19,876 - INFO - 找到System access值: Bastion
+2025-09-07 18:45:19,876 - INFO - 提取到Environment: Non-Production
+2025-09-07 18:45:19,877 - INFO - 提取到Authorization time (多行策略): 3 month
+2025-09-07 18:45:19,877 - INFO - 提取到Reason (多行策略): Testing and support for Eagle Eyes project user id1： ryi2 user id2: hwang13
+2025-09-07 18:45:19,877 - INFO - 处理需要批准的邮件: RITM1602500 | Approval Required / Approbation Requise
+2025-09-07 18:45:19,877 - INFO - 发件人: lululemon ServiceNow <luluprod@service-now.com>
+2025-09-07 18:45:19,877 - INFO - Short description: CN-Server & DB Access Control
+2025-09-07 18:45:19,877 - INFO - 生成回复主题: Re: RITM1602500 - approve
+2025-09-07 18:45:19,930 - INFO - 从原始邮件提取到Ref信息: Ref:MSG85339375
+2025-09-07 18:45:19,930 - INFO - 准备发送邮件到: "luluprod@service-now.com" <luluprod@service-now.com>
+2025-09-07 18:45:19,930 - INFO - 主题: Re: RITM1602500 - approve
+2025-09-07 18:45:19,931 - INFO - 邮件客户端: thunderbird
+2025-09-07 18:45:19,931 - INFO - 发送模式: 自动发送
+2025-09-07 18:45:45,576 - INFO - ✅ 邮件已自动发送
+2025-09-07 18:45:45,579 - INFO - 成功处理邮件 1: RITM1602500 | Approval Required / Approbation Requise
+2025-09-07 18:45:45,618 - INFO - 正在提取CN-Server & DB Access Control字段...
+2025-09-07 18:45:45,619 - INFO - 找到System access值: Bastion
+2025-09-07 18:45:45,619 - INFO - 提取到Environment: Non-Production
+2025-09-07 18:45:45,619 - INFO - 提取到Authorization time (多行策略): 3 month
+2025-09-07 18:45:45,619 - INFO - 提取到Reason (多行策略): Testing and support for Eagle Eyes project user id1： ryi2 user id2: hwang13
+2025-09-07 18:45:45,620 - INFO - 从源文件删除邮件: RITM1602500 | Approval Required / Approbation Requise
+2025-09-07 18:45:45,620 - INFO - ✅ 邮件已移动到Processed: RITM1602500 | Approval Required / Approbation Requise
+2025-09-07 18:45:45,620 - INFO - 📁 邮件已移动到Processed文件夹
+2025-09-07 18:45:45,620 - INFO - 本次处理了 1 封邮件

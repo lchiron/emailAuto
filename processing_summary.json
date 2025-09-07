@@ -1,0 +1,210 @@
+[
+  {
+    "processed_time": "2025-09-07 14:30:50",
+    "ticket_number": "RITM1603909",
+    "short_description": "China Cloud Resource Request",
+    "subject": "RITM1603909 | Approval Required / Approbation Requise",
+    "from": "lululemon ServiceNow <luluprod@service-now.com>",
+    "message_id": "851567610.12174.1757059707936@app138054.phx201.service-now.com"
+  },
+  {
+    "processed_time": "2025-09-07 12:15:30",
+    "ticket_number": "CHG0082515",
+    "short_description": "Standard Software Installation",
+    "subject": "CHG0082515 | Approval Required / Approbation Requise",
+    "from": "lululemon ServiceNow <luluprod@service-now.com>",
+    "message_id": "1570398660.20278.1757058894844@app142066.phx201.service-now.com"
+  },
+  {
+    "processed_time": "2025-09-07 10:45:15",
+    "ticket_number": "RITM1602557",
+    "short_description": "Hardware Request for Development Team",
+    "subject": "RITM1602557 | Approval Required / Approbation Requise",
+    "from": "lululemon ServiceNow <luluprod@service-now.com>",
+    "message_id": "317635681.230.1756982610535@app135171.phx201.service-now.com"
+  },
+  {
+    "processed_time": "2025-09-07 14:42:00",
+    "ticket_number": "RITM1604000",
+    "short_description": "Network Access Request",
+    "subject": "RITM1604000 | Approval Required / Approbation Requise",
+    "from": "lululemon ServiceNow <luluprod@service-now.com>",
+    "message_id": "test123456@app138054.phx201.service-now.com"
+  },
+  {
+    "processed_time": "2025-09-07 14:50:57",
+    "ticket_number": "RITM1602561",
+    "short_description": "China Cloud Resource Request",
+    "subject": "RITM1602561 | Approval Required / Approbation Requise",
+    "from": "lululemon ServiceNow <luluprod@service-now.com>",
+    "message_id": "<602128367.59593.1756977873844@app136157.phx201.service-now.com>"
+  },
+  {
+    "processed_time": "2025-09-07 14:51:37",
+    "ticket_number": "RITM1602500",
+    "short_description": "CN-Server & DB Access Control",
+    "subject": "RITM1602500 | Approval Required / Approbation Requise",
+    "from": "lululemon ServiceNow <luluprod@service-now.com>",
+    "message_id": "<495880018.27077.1756975843220@app141013.phx201.service-now.com>"
+  },
+  {
+    "processed_time": "2025-09-07 14:52:18",
+    "ticket_number": "RITM1602277",
+    "short_description": "China Cloud account and permission request | undefined | Jeremy Huang",
+    "subject": "RITM1602277 | Approval Required / Approbation Requise",
+    "from": "lululemon ServiceNow <luluprod@service-now.com>",
+    "message_id": "<1500103994.21193.1756975488883@app142044.phx201.service-now.com>"
+  },
+  {
+    "processed_time": "2025-09-07 14:56:03",
+    "ticket_number": "RITM1600889",
+    "short_description": "China Cloud Resource Request",
+    "subject": "RITM1600889 | Approval Required / Approbation Requise",
+    "from": "lululemon ServiceNow <luluprod@service-now.com>",
+    "message_id": "<605862788.3944.1756885701364@app138054.phx201.service-now.com>"
+  },
+  {
+    "processed_time": "2025-09-07 14:56:44",
+    "ticket_number": "RITM1599385",
+    "short_description": "China Cloud account and permission request | undefined | Judy Gao",
+    "subject": "RITM1599385 | Approval Required / Approbation Requise",
+    "from": "lululemon ServiceNow <luluprod@service-now.com>",
+    "message_id": "<919780905.61617.1756796339301@app138054.phx201.service-now.com>"
+  },
+  {
+    "processed_time": "2025-09-07 14:58:49",
+    "ticket_number": "RITM1599526",
+    "short_description": "China Cloud account and permission request | undefined | Julius Zhu",
+    "subject": "RITM1599526 | Approval Required / Approbation Requise",
+    "from": "lululemon ServiceNow <luluprod@service-now.com>",
+    "message_id": "<1371056011.7220.1756793314586@app142066.phx201.service-now.com>"
+  },
+  {
+    "processed_time": "2025-09-07 15:08:48",
+    "ticket_number": "RITM1599572",
+    "short_description": "China Cloud account and permission request | undefined | Mason Xu",
+    "subject": "RITM1599572 | Approval Required / Approbation Requise",
+    "from": "lululemon ServiceNow <luluprod@service-now.com>",
+    "message_id": "<38494864.76801.1756793221613@app135171.phx201.service-now.com>"
+  },
+  {
+    "processed_time": "2025-09-07 15:39:40",
+    "ticket_number": "RITM1602185",
+    "short_description": "China Cloud account and permission request | undefined | cong xu",
+    "subject": "RITM1602185 | Approval Required / Approbation Requise",
+    "from": "lululemon ServiceNow <luluprod@service-now.com>",
+    "message_id": "<1948941999.41506.1757063421264@app136195.phx201.service-now.com>",
+    "environment": "",
+    "required_permissions": "保持当前权限不变",
+    "reason_for_application": "DBA需要对rds数据库进行管理、监控、赋权、故障处理等运维优化操作",
+    "is_china_cloud": true
+  },
+  {
+    "processed_time": "2025-09-07 15:45:12",
+    "ticket_number": "RITM1603887",
+    "short_description": "China Cloud account and permission request | undefined | Guanchun Xu",
+    "subject": "RITM1603887 | Approval Required / Approbation Requise",
+    "from": "lululemon ServiceNow <luluprod@service-now.com>",
+    "message_id": "<1011357469.224.1757062106371@app142035.phx201.service-now.com>",
+    "environment": "",
+    "required_permissions": "Customs Portal CN Kafka账号申请如下Topic权限",
+    "reason_for_application": "Customs Portal CN Kafka账号申请Topic权限用于识别OCR返回结果",
+    "is_china_cloud": true
+  },
+  {
+    "processed_time": "2025-09-07 15:55:02",
+    "ticket_number": "RITM1603697",
+    "short_description": "China Cloud account and permission request | undefined | Lu Tang",
+    "subject": "RITM1603697 | Approval Required / Approbation Requise",
+    "from": "lululemon ServiceNow <luluprod@service-now.com>",
+    "message_id": "<148701196.5423.1757056695335@app135171.phx201.service-now.com>",
+    "environment": "Prod",
+    "required_permissions": "用户申请CMM系统权限",
+    "reason_for_application": "用户申请CMM系统权限",
+    "is_china_cloud": true
+  },
+  {
+    "processed_time": "2025-09-07 16:01:11",
+    "ticket_number": "RITM1602185",
+    "short_description": "China Cloud account and permission request | undefined | cong xu",
+    "subject": "RITM1602185 | Approval Required / Approbation Requise",
+    "from": "lululemon ServiceNow <luluprod@service-now.com>",
+    "message_id": "<1948941999.41506.1757063421264@app136195.phx201.service-now.com>",
+    "environment": "Prod",
+    "required_permissions": "保持当前权限不变",
+    "reason_for_application": "DBA需要对rds数据库进行管理、监控、赋权、故障处理等运维优化操作",
+    "is_china_cloud": true
+  },
+  {
+    "processed_time": "2025-09-07 16:26:41",
+    "ticket_number": "RITM1603697",
+    "short_description": "China Cloud account and permission request | undefined | Lu Tang",
+    "subject": "RITM1603697 | Approval Required / Approbation Requise",
+    "from": "lululemon ServiceNow <luluprod@service-now.com>",
+    "message_id": "<148701196.5423.1757056695335@app135171.phx201.service-now.com>",
+    "environment": "Prod",
+    "required_permissions": "用户申请CMM系统权限",
+    "reason_for_application": "用户申请CMM系统权限",
+    "is_china_cloud": true
+  },
+  {
+    "processed_time": "2025-09-07 17:05:21",
+    "ticket_number": "RITM1603909",
+    "short_description": "China Cloud Resource Request",
+    "subject": "RITM1603909 | Approval Required / Approbation Requise",
+    "from": "lululemon ServiceNow <luluprod@service-now.com>",
+    "message_id": "<851567610.12174.1757059707936@app138054.phx201.service-now.com>",
+    "environment": "Prod",
+    "required_permissions": "申请生产环境资源",
+    "reason_for_application": "新增的业务在对外提供数据查询功能中，会导致共享数据库CPU升高，暂时无法优化业务功能。为了避免影响共享RDS实例上其他业务，申请开启新的RDS实例给AMBHUB使用。",
+    "is_china_cloud": true
+  },
+  {
+    "processed_time": "2025-09-07 18:25:26",
+    "ticket_number": "RITM1602561",
+    "short_description": "China Cloud Resource Request",
+    "subject": "RITM1602561 | Approval Required / Approbation Requise",
+    "from": "lululemon ServiceNow <luluprod@service-now.com>",
+    "message_id": "<602128367.59593.1756977873844@app136157.phx201.service-now.com>",
+    "environment": "Non-prod",
+    "required_permissions": "升级AMBHUB QA环境的 RDS",
+    "reason_for_application": "WMP业务要求调整压测流量分配后，当前RDS规格不满足压测性能要求，需要临时提升实例规格进行压测",
+    "is_china_cloud": true
+  },
+  {
+    "processed_time": "2025-09-07 18:28:18",
+    "ticket_number": "RITM1602588",
+    "short_description": "China Cloud Resource Request",
+    "subject": "RITM1602588 | Approval Required / Approbation Requise",
+    "from": "lululemon ServiceNow <luluprod@service-now.com>",
+    "message_id": "<159243892.62758.1757037453139@app136157.phx201.service-now.com>",
+    "environment": "Non-prod",
+    "required_permissions": "需要使用aksk 访问OSS,bucket name: lululemon-sh-noprod-scm-sharedcapability-exclusive-01 AccessKey ID： LTAI5tHLVQ99sGZ2Njmojtnk SecretKey: ${ALIYUN_OSS_SECRET_KEY} https url： https://oss-cn-shanghai-internal.aliyuncs.com Check if the budget can be covered: Yes Confirm whether the architecture is consistent with the original design: Yes",
+    "reason_for_application": "需要使用aksk 访问OSS,bucket name: lululemon-sh-noprod-scm-sharedcapability-exclusive-01",
+    "is_china_cloud": true
+  },
+  {
+    "processed_time": "2025-09-07 18:32:22",
+    "ticket_number": "RITM1603887",
+    "short_description": "China Cloud account and permission request | undefined | Guanchun Xu",
+    "subject": "RITM1603887 | Approval Required / Approbation Requise",
+    "from": "lululemon ServiceNow <luluprod@service-now.com>",
+    "message_id": "<1011357469.224.1757062106371@app142035.phx201.service-now.com>",
+    "environment": "Non - Prod",
+    "required_permissions": "Customs Portal CN Kafka账号申请如下Topic权限 Kafka实例：alikafka-pre-cn-nwy3a8o9p002 账号：capgemini-qa、capgemini-staging 申请Topic： staging-ifpgateway-task-request，staging-ifpgateway-task-result qa-ifpgateway-task-request，qa-ifpgateway-task-result dev-ifpgateway-task-request，dev-ifpgateway-task-result 权限：只读",
+    "reason_for_application": "Customs Portal CN Kafka账号申请Topic权限用于识别OCR返回结果",
+    "is_china_cloud": true
+  },
+  {
+    "processed_time": "2025-09-07 18:45:45",
+    "ticket_number": "RITM1602500",
+    "short_description": "CN-Server & DB Access Control",
+    "subject": "RITM1602500 | Approval Required / Approbation Requise",
+    "from": "lululemon ServiceNow <luluprod@service-now.com>",
+    "message_id": "<495880018.27077.1756975843220@app141013.phx201.service-now.com>",
+    "environment": "Non-Production",
+    "required_permissions": "3 month",
+    "reason_for_application": "Testing and support for Eagle Eyes project user id1： ryi2 user id2: hwang13",
+    "is_china_cloud": true
+  }
+]
